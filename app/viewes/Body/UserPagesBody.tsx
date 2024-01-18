@@ -99,7 +99,7 @@ const targetCards: CardProps[] = [
   },
 ];
 
-export const Body = () => {
+export const UserPagesBody = () => {
   const styles = StyleSheet.create({
     bodyContainer: {
       flex: 1,

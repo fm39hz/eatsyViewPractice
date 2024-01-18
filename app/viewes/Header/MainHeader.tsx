@@ -1,7 +1,7 @@
 import {StyleSheet, View} from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
-export const Header = () => {
+export const MainHeader = () => {
   const styles = StyleSheet.create({
     headerContainer: {
       paddingVertical: 8,
